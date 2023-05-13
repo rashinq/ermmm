@@ -14,17 +14,17 @@
 
 /* See https://github.com/Saltssaumure/w9x-discord-theme#customisation for customisation settings. */
 :root {
-    --w9x-background-image: none;
+    --w9x-background-image: https://cdn.discordapp.com/attachments/988082255127793674/1106877657246875678/neiQWB3.png;
     --w9x-background-color: #2c2439;
     --w9x-start-text: "divine koriyu";
 }
 
 .theme-light {
     --w9x-bg-color:     #63649d;
-    --w9x-text-color:   #709dc7;
+    --w9x-text-color:   #352d48;
 }
 
 .theme-dark {
     --w9x-bg-color:     #43385a;
-    --w9x-text-color:   #88e4f9;
+    --w9x-text-color:   #352d48;
 }
