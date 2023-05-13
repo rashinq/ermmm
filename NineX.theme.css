@@ -15,16 +15,16 @@
 /* See https://github.com/Saltssaumure/w9x-discord-theme#customisation for customisation settings. */
 :root {
     --w9x-background-image: none;
-    --w9x-background-color: #008080;
-    --w9x-start-text: "Windows95";
+    --w9x-background-color: #2c2439;
+    --w9x-start-text: "divine koriyu";
 }
 
 .theme-light {
-    --w9x-bg-color:     #FFFFFF;
-    --w9x-text-color:   #000000;
+    --w9x-bg-color:     #63649d;
+    --w9x-text-color:   #709dc7;
 }
 
 .theme-dark {
-    --w9x-bg-color:     #000000;
-    --w9x-text-color:   #DFDFDF;
+    --w9x-bg-color:     #43385a;
+    --w9x-text-color:   #88e4f9;
 }
